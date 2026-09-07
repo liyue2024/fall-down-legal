@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["ro"] = {
         "Cu respectarea acestor Termeni și a regulilor platformei, poți instala și folosi aplicația pe dispozitivele personale în scop personal și necomercial. Licența este limitată, neexclusivă și netransferabilă și nu transferă proprietatea asupra aplicației, software-ului, graficii, conținutului audio sau altui conținut.",
         "Ai nevoie de un dispozitiv și o versiune de sistem acceptate. Jocul principal funcționează de regulă fără rețea, dar încărcarea produselor, cumpărarea, restaurarea și confirmarea abonamentelor necesită o rețea și un serviciu de magazin disponibile.",
         "3. Joc și utilizare gratuită",
-        "{appName} este un joc casual offline care nu necesită cont. Fără un drept plătit valabil, jocul poate fi pornit gratuit de două ori pe fiecare dispozitiv. O utilizare gratuită se contorizează la intrarea reușită în ecranul jocului și nu se restituie la ieșire, întrerupere sau din cauza rezultatului. După epuizare, este necesar un abonament activ sau acces pe viață pentru un joc nou.",
+        "{appName} este un joc casual offline care nu necesită cont. Fără un drept plătit valabil, jocul oferă o experiență gratuită. O utilizare gratuită se contorizează la intrarea reușită în ecranul jocului și nu se restituie la ieșire, întrerupere sau din cauza rezultatului. După epuizare, este necesar un abonament activ sau acces pe viață pentru un joc nou.",
         "4. Produse plătite și prețuri",
         "Aplicația oferă numai aceste trei produse plătite:",
         "un abonament săptămânal cu reînnoire automată;",

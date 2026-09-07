@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["cs"] = {
         "Při dodržení těchto Podmínek a pravidel platformy můžete aplikaci instalovat a používat na osobních zařízeních k osobním, nekomerčním účelům. Licence je omezená, nevýhradní a nepřenosná a nepřevádí vlastnictví aplikace, softwaru, grafiky, zvuku nebo jiného obsahu.",
         "Potřebujete podporované zařízení a verzi systému. Základní hra obvykle funguje bez sítě, ale načítání produktů, nákupy, obnovení a potvrzení předplatného vyžadují dostupnou síť a službu obchodu.",
         "3. Hra a bezplatné použití",
-        "{appName} je nenáročná offline hra, která nevyžaduje účet. Bez platného placeného oprávnění lze hru na každém zařízení dvakrát spustit zdarma. Bezplatné použití se započítá po úspěšném vstupu na herní obrazovku a nevrací se při ukončení, přerušení ani kvůli výsledku hry. Po vyčerpání je pro novou hru nutné aktivní předplatné nebo doživotní přístup.",
+        "{appName} je nenáročná offline hra, která nevyžaduje účet. Bez platného placeného oprávnění hra nabízí bezplatné hraní. Bezplatné použití se započítá po úspěšném vstupu na herní obrazovku a nevrací se při ukončení, přerušení ani kvůli výsledku hry. Po vyčerpání je pro novou hru nutné aktivní předplatné nebo doživotní přístup.",
         "4. Placené produkty a ceny",
         "Aplikace nabízí pouze tyto tři placené produkty:",
         "automaticky obnovované týdenní předplatné;",

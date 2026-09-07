@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["pl"] = {
         "Z zastrzeżeniem niniejszych Warunków i zasad platformy możesz instalować aplikację na swoich urządzeniach osobistych i używać jej do celów prywatnych, niekomercyjnych. Licencja jest ograniczona, niewyłączna i niezbywalna oraz nie przenosi własności aplikacji, oprogramowania, grafiki, dźwięku ani innych treści.",
         "Potrzebujesz obsługiwanego urządzenia i wersji systemu. Podstawowa gra zwykle działa bez sieci, lecz wczytywanie produktów, zakup, przywracanie zakupów i potwierdzanie subskrypcji wymaga dostępnej sieci i usługi sklepu.",
         "3. Gra i darmowe rozgrywki",
-        "{appName} to swobodna gra offline, która nie wymaga konta. Bez ważnego płatnego uprawnienia grę można uruchomić bezpłatnie dwa razy na każdym urządzeniu. Darmowe użycie zostaje naliczone po pomyślnym wejściu na ekran gry i nie jest zwracane po wyjściu, przerwaniu ani ze względu na wynik gry. Po wykorzystaniu darmowych uruchomień kolejna gra wymaga aktywnej subskrypcji lub dostępu dożywotniego.",
+        "{appName} to swobodna gra offline, która nie wymaga konta. Bez ważnego płatnego uprawnienia gra oferuje bezpłatną rozgrywkę. Darmowe użycie zostaje naliczone po pomyślnym wejściu na ekran gry i nie jest zwracane po wyjściu, przerwaniu ani ze względu na wynik gry. Po wykorzystaniu darmowych uruchomień kolejna gra wymaga aktywnej subskrypcji lub dostępu dożywotniego.",
         "4. Płatne produkty i ceny",
         "Aplikacja oferuje tylko trzy płatne produkty:",
         "automatycznie odnawianą subskrypcję tygodniową;",

@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["vi"] = {
         "Theo các Điều khoản này và quy tắc nền tảng, bạn có thể cài đặt và sử dụng ứng dụng trên thiết bị cá nhân cho mục đích cá nhân, phi thương mại. Giấy phép này có giới hạn, không độc quyền, không thể chuyển nhượng và không chuyển giao quyền sở hữu ứng dụng, phần mềm, hình ảnh, âm thanh hoặc nội dung khác.",
         "Bạn cần thiết bị và phiên bản hệ điều hành được hỗ trợ. Trò chơi chính thường hoạt động mà không cần kết nối mạng, nhưng việc tải sản phẩm, mua, khôi phục giao dịch mua và xác nhận gói đăng ký cần có mạng và dịch vụ cửa hàng ứng dụng.",
         "3. Trò chơi và lượt chơi miễn phí",
-        "{appName} là trò chơi thông thường ngoại tuyến, không yêu cầu tài khoản. Khi không có quyền lợi trả phí hợp lệ, trò chơi có thể được bắt đầu miễn phí hai lần trên mỗi thiết bị. Một lượt miễn phí được tính khi vào màn hình trò chơi thành công và sẽ không được hoàn lại nếu bạn thoát, bị gián đoạn hoặc nhận một kết quả trò chơi cụ thể. Sau khi dùng hết lượt miễn phí, bạn cần gói đăng ký đang hoạt động hoặc quyền lợi trọn đời để bắt đầu lượt chơi khác.",
+        "{appName} là trò chơi thông thường ngoại tuyến, không yêu cầu tài khoản. Khi không có quyền lợi trả phí hợp lệ, trò chơi cung cấp trải nghiệm miễn phí. Một lượt miễn phí được tính khi vào màn hình trò chơi thành công và sẽ không được hoàn lại nếu bạn thoát, bị gián đoạn hoặc nhận một kết quả trò chơi cụ thể. Sau khi dùng hết lượt miễn phí, bạn cần gói đăng ký đang hoạt động hoặc quyền lợi trọn đời để bắt đầu lượt chơi khác.",
         "4. Sản phẩm trả phí và giá",
         "Ứng dụng chỉ cung cấp ba sản phẩm trả phí sau:",
         "gói đăng ký hàng tuần tự động gia hạn;",

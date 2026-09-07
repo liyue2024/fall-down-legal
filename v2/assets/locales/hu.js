@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["hu"] = {
         "E Feltételek és a platformszabályok betartásával személyes, nem kereskedelmi célból telepítheted és használhatod az alkalmazást a saját eszközeiden. A licenc korlátozott, nem kizárólagos és nem átruházható, és nem ruházza át az alkalmazás, szoftver, grafika, hang vagy más tartalom tulajdonjogát.",
         "Támogatott eszköz és rendszerverzió szükséges. Az alapjáték általában hálózat nélkül működik, de a termékbetöltés, vásárlás, visszaállítás és előfizetés-megerősítés elérhető hálózatot és áruházi szolgáltatást igényel.",
         "3. Játék és ingyenes használat",
-        "A {appName} egy fiókot nem igénylő, offline alkalmi játék. Érvényes fizetős jogosultság nélkül a játék minden eszközön kétszer indítható ingyen. Egy ingyenes használat a játék képernyőjének sikeres megnyitásakor számítódik, és kilépés, megszakítás vagy a játék eredménye miatt nem jár vissza. Az ingyenes alkalmak elfogyása után új játékhoz aktív előfizetés vagy élethosszig tartó hozzáférés kell.",
+        "A {appName} egy fiókot nem igénylő, offline alkalmi játék. Érvényes fizetős jogosultság nélkül a játék ingyenes játékélményt kínál. Egy ingyenes használat a játék képernyőjének sikeres megnyitásakor számítódik, és kilépés, megszakítás vagy a játék eredménye miatt nem jár vissza. Az ingyenes alkalmak elfogyása után új játékhoz aktív előfizetés vagy élethosszig tartó hozzáférés kell.",
         "4. Fizetős termékek és árak",
         "Az alkalmazás csak a következő három fizetős terméket kínálja:",
         "automatikusan megújuló heti előfizetés;",

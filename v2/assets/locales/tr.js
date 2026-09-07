@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["tr"] = {
         "Bu Koşullara ve platform kurallarına uymanız şartıyla uygulamayı kişisel cihazlarınıza kişisel ve ticari olmayan amaçlarla yükleyip kullanabilirsiniz. Bu lisans sınırlı, münhasır olmayan ve devredilemezdir; uygulamanın, yazılımın, görsellerin, seslerin veya diğer içeriğin mülkiyetini devretmez.",
         "Desteklenen bir cihaz ve işletim sistemi sürümü gerekir. Ana oyun genellikle ağ bağlantısı olmadan çalışır; ancak ürün yükleme, satın alma, satın almaları geri yükleme ve abonelik doğrulama için kullanılabilir bir ağ ve uygulama mağazası hizmeti gerekir.",
         "3. Oyun ve ücretsiz kullanım",
-        "{appName}, hesap gerektirmeyen çevrimdışı gündelik bir oyundur. Geçerli ücretli hak olmadan oyun her cihazda iki kez ücretsiz başlatılabilir. Oyun ekranına başarıyla girildiğinde bir ücretsiz kullanım sayılır; çıkış, kesinti veya oyun sonucu nedeniyle geri verilmez. Ücretsiz kullanımlar bittikten sonra yeni bir oyun başlatmak için etkin abonelik veya ömür boyu erişim gerekir.",
+        "{appName}, hesap gerektirmeyen çevrimdışı gündelik bir oyundur. Geçerli ücretli hak olmadan oyun ücretsiz bir deneyim sunar. Oyun ekranına başarıyla girildiğinde bir ücretsiz kullanım sayılır; çıkış, kesinti veya oyun sonucu nedeniyle geri verilmez. Ücretsiz kullanımlar bittikten sonra yeni bir oyun başlatmak için etkin abonelik veya ömür boyu erişim gerekir.",
         "4. Ücretli ürünler ve fiyatlar",
         "Uygulama yalnızca şu üç ücretli ürünü sunar:",
         "otomatik yenilenen haftalık abonelik;",

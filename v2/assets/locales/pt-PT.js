@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["pt-PT"] = {
         "De acordo com estes Termos e as regras da plataforma, pode instalar e usar a aplicação em seus dispositivos pessoais para fins pessoais e não comerciais. Esta licença é limitada, não exclusiva e intransferível e não transfere a propriedade da aplicação, software, arte, áudio ou outro conteúdo.",
         "Precisa de um dispositivo e de uma versão do sistema compatíveis. O jogo principal geralmente funciona sem rede, mas o carregamento de produtos, compras, restauração de compras e confirmação de subscrições exigem rede e serviço da loja disponíveis.",
         "3. Jogo e partidas gratuitas",
-        "{appName} é um jogo casual offline que não exige conta. Sem um direito pago válido, o jogo pode ser iniciado gratuitamente duas vezes em cada dispositivo. Uma utilização gratuita é contabilizada quando o ecrã do jogo é acedido com sucesso e não é reposta por saída, interrupção ou resultado da partida. Depois de as utilizações gratuitas terminarem, será necessária uma subscrição ativa ou acesso vitalício para iniciar outra partida.",
+        "{appName} é um jogo casual offline que não exige conta. Sem um direito pago válido, o jogo oferece uma experiência gratuita. Uma utilização gratuita é contabilizada quando o ecrã do jogo é acedido com sucesso e não é reposta por saída, interrupção ou resultado da partida. Depois de as utilizações gratuitas terminarem, será necessária uma subscrição ativa ou acesso vitalício para iniciar outra partida.",
         "4. Produtos pagos e preços",
         "A aplicação oferece somente estes três produtos pagos:",
         "uma subscrição semanal com renovação automática;",

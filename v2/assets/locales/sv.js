@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["sv"] = {
         "I enlighet med dessa villkor och plattformsreglerna får du installera och använda appen på dina personliga enheter för personliga, icke-kommersiella ändamål. Licensen är begränsad, icke-exklusiv och får inte överlåtas, och den överför inte äganderätten till appen, programvaran, grafiken, ljudet eller annat innehåll.",
         "Du behöver en enhet och operativsystemversion som stöds. Kärnspelet fungerar normalt utan nätverksanslutning, men inläsning av produkter, köp, återställning av köp och bekräftelse av abonnemang kräver ett tillgängligt nätverk och en appbutikstjänst.",
         "3. Spel och gratis användning",
-        "{appName} är ett enkelt offline-spel som inte kräver något konto. Utan en giltig betald åtkomst kan spelet startas gratis två gånger på varje enhet. En gratis användning räknas när spelskärmen har öppnats och återställs inte för att du avslutar, blir avbruten eller får ett visst spelresultat. När gratisspelen är förbrukade krävs ett aktivt abonnemang eller livstidsåtkomst för att starta ett nytt spel.",
+        "{appName} är ett enkelt offline-spel som inte kräver något konto. Utan giltig betald åtkomst erbjuder spelet en kostnadsfri spelupplevelse. En gratis användning räknas när spelskärmen har öppnats och återställs inte för att du avslutar, blir avbruten eller får ett visst spelresultat. När gratisspelen är förbrukade krävs ett aktivt abonnemang eller livstidsåtkomst för att starta ett nytt spel.",
         "4. Betalda produkter och priser",
         "Appen erbjuder endast dessa tre betalda produkter:",
         "ett veckoabonnemang med automatisk förnyelse;",

@@ -156,7 +156,7 @@ window.FALL_DOWN_TRANSLATIONS = {
               </section>
               <section class="document-section" id="free-experience">
                 <h2>3. Game and free play</h2>
-                <p><span data-app-name>Fall Down</span> is an offline casual game and does not require an account. Without a valid paid entitlement, the game can be started twice for free on each device. A free use is counted when the game screen is successfully entered and is not returned because you quit, are interrupted, or receive a particular game result. After the free uses are exhausted, an active subscription or lifetime entitlement is required to start another game.</p>
+                <p><span data-app-name>Fall Down</span> is an offline casual game and does not require an account. Without a valid paid entitlement, the game offers a free experience. A free use is counted when the game screen is successfully entered and is not returned because you quit, are interrupted, or receive a particular game result. After the free uses are exhausted, an active subscription or lifetime entitlement is required to start another game.</p>
               </section>
               <section class="document-section" id="products">
                 <h2>4. Paid products and prices</h2>

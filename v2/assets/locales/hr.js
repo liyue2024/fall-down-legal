@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["hr"] = {
         "U skladu s ovim Uvjetima i pravilima platforme, aplikaciju možete instalirati i upotrebljavati na svojim osobnim uređajima u osobne, nekomercijalne svrhe. Ova je licenca ograničena, neisključiva i neprenosiva te ne prenosi vlasništvo nad aplikacijom, softverom, grafičkim sadržajima, zvukom ili drugim sadržajem.",
         "Potreban vam je podržani uređaj i verzija operacijskog sustava. Osnovna igra uglavnom radi bez mrežne veze, ali za učitavanje proizvoda, kupnju, vraćanje kupnji i potvrdu pretplate potrebni su dostupna mreža i usluga trgovine aplikacija.",
         "3. Igra i besplatne igre",
-        "{appName} je ležerna izvanmrežna igra koja ne zahtijeva račun. Bez valjanog plaćenog prava igra se može besplatno pokrenuti dva puta na svakom uređaju. Besplatna upotreba računa se kada se uspješno otvori zaslon igre i ne vraća se zato što ste izašli, bili prekinuti ili ostvarili određeni rezultat igre. Nakon što iskoristite besplatne igre, za pokretanje nove igre potrebna je aktivna pretplata ili doživotno pravo.",
+        "{appName} je ležerna izvanmrežna igra koja ne zahtijeva račun. Bez valjanog plaćenog prava igra nudi besplatno iskustvo igranja. Besplatna upotreba računa se kada se uspješno otvori zaslon igre i ne vraća se zato što ste izašli, bili prekinuti ili ostvarili određeni rezultat igre. Nakon što iskoristite besplatne igre, za pokretanje nove igre potrebna je aktivna pretplata ili doživotno pravo.",
         "4. Plaćeni proizvodi i cijene",
         "Aplikacija nudi samo ova tri plaćena proizvoda:",
         "tjednu pretplatu s automatskim obnavljanjem;",

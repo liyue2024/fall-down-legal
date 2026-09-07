@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["da"] = {
         "I henhold til disse vilkår og platformens regler må du installere og bruge appen på dine personlige enheder til personlige, ikke-kommercielle formål. Licensen er begrænset, ikke-eksklusiv og kan ikke overdrages og overfører ikke ejerskab til appen, softwaren, grafikken, lyden eller andet indhold.",
         "Du skal have en understøttet enhed og version af operativsystemet. Kernespillet fungerer normalt uden netværksforbindelse, men indlæsning af produkter, køb, gendannelse af køb og bekræftelse af abonnement kræver et tilgængeligt netværk og en appbutikstjeneste.",
         "3. Spil og gratis brug",
-        "{appName} er et offline fritidsspil og kræver ikke en konto. Uden en gyldig betalt adgang kan spillet startes gratis to gange på hver enhed. En gratis brug tælles, når spilskærmen er åbnet korrekt, og gives ikke tilbage, fordi du afslutter, bliver afbrudt eller får et bestemt spilresultat. Når de gratis forsøg er brugt, kræves et aktivt abonnement eller livstidsadgang for at starte et nyt spil.",
+        "{appName} er et offline fritidsspil og kræver ikke en konto. Uden gyldig betalt adgang tilbyder spillet en gratis spiloplevelse. En gratis brug tælles, når spilskærmen er åbnet korrekt, og gives ikke tilbage, fordi du afslutter, bliver afbrudt eller får et bestemt spilresultat. Når de gratis forsøg er brugt, kræves et aktivt abonnement eller livstidsadgang for at starte et nyt spil.",
         "4. Betalte produkter og priser",
         "Appen tilbyder kun disse tre betalte produkter:",
         "et ugentligt abonnement med automatisk fornyelse;",

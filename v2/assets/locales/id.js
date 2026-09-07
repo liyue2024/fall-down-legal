@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["id"] = {
         "Dengan tunduk pada Ketentuan ini dan aturan platform, Anda dapat memasang dan menggunakan aplikasi di perangkat pribadi Anda untuk tujuan pribadi dan nonkomersial. Lisensi ini terbatas, noneksklusif, dan tidak dapat dialihkan serta tidak mengalihkan kepemilikan aplikasi, perangkat lunak, karya seni, audio, atau konten lainnya.",
         "Anda memerlukan perangkat dan versi sistem operasi yang didukung. Game inti umumnya berfungsi tanpa koneksi jaringan, tetapi pemuatan produk, pembelian, pemulihan pembelian, dan konfirmasi langganan memerlukan jaringan dan layanan toko aplikasi yang tersedia.",
         "3. Game dan permainan gratis",
-        "{appName} adalah game kasual offline yang tidak memerlukan akun. Tanpa hak akses berbayar yang valid, game dapat dimulai dua kali secara gratis di setiap perangkat. Satu penggunaan gratis dihitung saat layar game berhasil dimasuki dan tidak dikembalikan karena Anda keluar, mengalami gangguan, atau memperoleh hasil game tertentu. Setelah penggunaan gratis habis, langganan aktif atau hak akses seumur hidup diperlukan untuk memulai permainan lain.",
+        "{appName} adalah game kasual offline yang tidak memerlukan akun. Tanpa hak akses berbayar yang valid, game menyediakan pengalaman bermain gratis. Satu penggunaan gratis dihitung saat layar game berhasil dimasuki dan tidak dikembalikan karena Anda keluar, mengalami gangguan, atau memperoleh hasil game tertentu. Setelah penggunaan gratis habis, langganan aktif atau hak akses seumur hidup diperlukan untuk memulai permainan lain.",
         "4. Produk berbayar dan harga",
         "Aplikasi hanya menawarkan tiga produk berbayar berikut:",
         "langganan mingguan yang diperpanjang otomatis;",

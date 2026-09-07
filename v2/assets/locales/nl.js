@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["nl"] = {
         "Als je je aan deze Voorwaarden en de platformregels houdt, mag je de app op je persoonlijke apparaten installeren en voor persoonlijke, niet-commerciële doeleinden gebruiken. Deze licentie is beperkt, niet-exclusief en niet-overdraagbaar en draagt geen eigendom van de app, software, illustraties, audio of andere inhoud over.",
         "Je hebt een ondersteund apparaat en een ondersteunde besturingssysteemversie nodig. Het hoofdspel werkt doorgaans zonder netwerkverbinding, maar producten laden, kopen, aankopen herstellen en abonnementen bevestigen vereist een beschikbaar netwerk en een beschikbare appwinkeldienst.",
         "3. Spel en gratis spelen",
-        "{appName} is een offline casual game waarvoor geen account nodig is. Zonder geldige betaalde toegang kan het spel op elk apparaat twee keer gratis worden gestart. Een gratis gebruik wordt geteld zodra het spelscherm met succes is geopend en wordt niet teruggegeven bij afsluiten, onderbreking of vanwege het spelresultaat. Nadat de gratis mogelijkheden zijn gebruikt, is een actief abonnement of levenslange toegang nodig om nog een spel te starten.",
+        "{appName} is een offline casual game waarvoor geen account nodig is. Zonder geldige betaalde toegang biedt het spel een gratis speelervaring. Een gratis gebruik wordt geteld zodra het spelscherm met succes is geopend en wordt niet teruggegeven bij afsluiten, onderbreking of vanwege het spelresultaat. Nadat de gratis mogelijkheden zijn gebruikt, is een actief abonnement of levenslange toegang nodig om nog een spel te starten.",
         "4. Betaalde producten en prijzen",
         "De app biedt alleen deze drie betaalde producten:",
         "een automatisch verlengd weekabonnement;",

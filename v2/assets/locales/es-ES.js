@@ -115,7 +115,7 @@ window.FALL_DOWN_TRANSLATIONS["es-ES"] = {
         "De acuerdo con estas Condiciones y las normas de la plataforma, puedes instalar y usar la app en tus dispositivos personales para fines personales y no comerciales. Esta licencia es limitada, no exclusiva e intransferible, y no transfiere la propiedad de la app, el software, las ilustraciones, el audio ni otros contenidos.",
         "Necesitas un dispositivo y una versión del sistema compatibles. El juego principal suele funcionar sin conexión, pero cargar productos, comprar, restaurar compras y confirmar suscripciones requiere una red y un servicio de tienda disponibles.",
         "3. Juego y partidas gratuitas",
-        "{appName} es un juego casual sin conexión que no requiere cuenta. Sin un derecho de pago válido, el juego puede iniciarse gratis dos veces en cada dispositivo. Una partida gratuita cuenta al entrar correctamente en la pantalla de juego y no se devuelve por salir, sufrir una interrupción ni por el resultado obtenido. Agotadas las partidas gratuitas, se necesita una suscripción activa o acceso de por vida para iniciar otra.",
+        "{appName} es un juego casual sin conexión que no requiere cuenta. Sin un derecho de pago válido, el juego ofrece una experiencia gratuita. Una partida gratuita cuenta al entrar correctamente en la pantalla de juego y no se devuelve por salir, sufrir una interrupción ni por el resultado obtenido. Agotadas las partidas gratuitas, se necesita una suscripción activa o acceso de por vida para iniciar otra.",
         "4. Productos de pago y precios",
         "La app solo ofrece estos tres productos de pago:",
         "una suscripción semanal con renovación automática;",
